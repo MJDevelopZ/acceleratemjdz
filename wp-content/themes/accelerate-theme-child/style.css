@@ -108,17 +108,18 @@ aside.case-study-sidebar p{
 }
 
 div.case-study-images{
-	float: left;
-	margin-left: 50px;
-	width: 600px;
+float: left;
+margin-left: 50px;
+width: 600px;
+height: auto;
 }
 
 div.case-study-images img{
-	display: block;
-	margin-bottom: 50px;
-	border: 1px solid #ddd;
-	height: auto;
-	width: 600px;
+display: block;
+margin-bottom: 50px;
+border: 1px solid #ddd;
+height: auto;
+width: 600px;
 }
 
 /*Homepage Featured Work*/
@@ -148,6 +149,7 @@ li.individual-featured-work{
 figure.featured-work-image img{
 	padding: 35px;
 	border: 1px solid #ddd;
+	margin-top: 50px;
 }
 
 /*Work Landing Page - Archive */

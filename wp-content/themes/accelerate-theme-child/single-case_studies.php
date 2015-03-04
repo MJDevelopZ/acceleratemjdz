@@ -37,7 +37,7 @@ get_header(); ?>
 			<?php if($image_1) { ?>
 				<?php echo wp_get_attachment_image( $image_1, $size ); ?>
 			<?php } ?>
-
+			
 			<?php if($image_2) { ?>
 				<?php echo wp_get_attachment_image( $image_2, $size ); ?>
 			<?php } ?>
