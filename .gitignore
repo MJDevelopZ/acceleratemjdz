@@ -1,12 +1,4 @@
 
-*~
-.DS_Store
-.svn
-.cvs
-*.bak
-*.swp
-Thumbs.db
-
 # wordpress specific
 wp-content/uploads/2015/03/*
 wp-config.php
