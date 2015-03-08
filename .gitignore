@@ -1,3 +1,11 @@
-# Ignore the following
+
+*~
 .DS_Store
-wp-config.php
+.svn
+.cvs
+*.bak
+*.swp
+Thumbs.db
+
+# wordpress specific
+wp-content/uploads/2015/03/*
